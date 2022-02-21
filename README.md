@@ -1,6 +1,8 @@
 <p align=”center”>
+  
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/49302664/154981100-e568063d-671e-443e-842e-d5f39506d269.jpeg" alt=”my banner”>
-
+                                                                                                                                          
+</p>
 
 
 ## Luis Quiros-Guerrero
@@ -13,7 +15,11 @@ of chromatographic techniques for efficient isolation of natural products, chemi
 You can use the [editor on GitHub](https://github.com/luigiquiros/Test1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Contact me via if you have any question [mail](mailto:luis.quiros@unige.ch)
-
+                                                                                                                                          
+If you want to connect! 
+                                                                                                                                          
+<a href=”https://www.linkedin.com/in/luisquirosg/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+  
 Chek also: 
 [LinkedIn](https://www.linkedin.com/in/luisquirosg/)
 [Researchgate](https://www.researchgate.net/profile/Luis-Quiros-Guerrero)
