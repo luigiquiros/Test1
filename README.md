@@ -4,6 +4,6 @@ You can use the [editor on GitHub](https://github.com/luigiquiros/Test1/edit/gh-
 
 
 
-[![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=luigiquiros)](https://github.com/luigiquiros/github-readme-stats)
+[![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=luigiquiros&show_icons=true&theme=radical)](https://github.com/luigiquiros/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigiquiros)](https://github.com/luigiquiros/github-readme-stats)
