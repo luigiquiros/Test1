@@ -4,8 +4,6 @@ Current PhD Candidate at Université de Genève, Switzerland i'm a chemist worki
 obtain new chemical compounds, through bioinformatic tools python-based. Also, i'm involved in projects for the obtention of new anticancer compounds (Wnt regulators), development
 of chromatographic techniques for efficient isolation of natural products, chemical ecology projects link to the biodiversity of Costa Rica.
 
-You can use the [editor on GitHub](https://github.com/luigiquiros/Test1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 Contact me via if you have any question [mail](mailto:luis.quiros@unige.ch)
                                                                                                                                           
 If you want to connect check also: 
