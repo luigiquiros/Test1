@@ -1,6 +1,6 @@
 # Luis Quiros-Guerrero
 
-Current PhD Candidate at Université de Genève, Switzerland i'm a chemist working in the development of workflows for the prioritization of sample in large extract collections to 
+Current PostDoc at Université de Genève, Switzerland i'm a chemist working in the development of workflows for the prioritization of sample in large extract collections to 
 obtain new chemical compounds, through bioinformatic tools python-based. Also, i'm involved in projects for the obtention of new anticancer compounds (Wnt regulators), development
 of chromatographic techniques for efficient isolation of natural products, chemical ecology projects link to the biodiversity of Costa Rica.
 
