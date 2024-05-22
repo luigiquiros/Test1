@@ -4,6 +4,8 @@ Current PostDoc at Université de Genève, Switzerland i'm a chemist working in 
 obtain new chemical compounds, through bioinformatic tools python-based. Also, i'm involved in projects for the obtention of new anticancer compounds (Wnt regulators), development
 of chromatographic techniques for efficient isolation of natural products, chemical ecology projects link to the biodiversity of Costa Rica.
 
+[Scientific Publications](/img/Luis_publications.pdf)
+
 Contact me via if you have any question [mail](mailto:luis.quiros@unige.ch)
                                                                                                                                           
 If you want to connect check also: 
