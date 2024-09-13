@@ -5,7 +5,7 @@ obtain new chemical compounds, through bioinformatic tools python-based. Also, i
 of chromatographic techniques for efficient isolation of natural products, chemical ecology projects link to the biodiversity of Costa Rica.
 
 [Scientific Publications](/img/Luis_publications.pdf)
-
+[Scientific Presentations/Workshops](/img/Luis_congress.pdf)
 Contact me via if you have any question [mail](mailto:luis.quiros@unige.ch)
                                                                                                                                           
 If you want to connect check also: 
